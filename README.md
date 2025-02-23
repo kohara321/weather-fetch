@@ -1,2 +1,3 @@
-# weather-fetch
-Weather App for API practice
+# React + Vite
+
+Practice APP to fetch APIs
