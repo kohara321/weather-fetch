@@ -1,3 +1,3 @@
 # React + Vite
 
-Practice APP to fetch APIs
+Weather APP to practice working with APIs.
